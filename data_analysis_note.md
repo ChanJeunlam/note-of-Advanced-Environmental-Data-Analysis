@@ -62,7 +62,7 @@ blue and red curve have great difference in trajectories while they only have $O
         ![PDF](./picture/01/PDF.png)
         1. in nature, PDF of most of the environmental data have te shape of Gaussian distribution becasue of the central limit theory.
         2. However, for a nonliear system, the shape is non-gaussian
-        3. **Note**: most of the statistics that you would learn is based on the assumption that 
+        3. **Note**: most of the statistics that you would learn is based on the assumption that the distribution of the data is gaussian-shape, so the first thing when you get the data is to 
     
 
 
